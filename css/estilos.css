@@ -1,0 +1,39 @@
+div {
+    float: left;
+}
+
+.imagen{
+    background-color: skyblue;
+}
+
+.article{
+    background-color: darkslateblue;
+}
+
+.pie{
+    background-color: lightgreen;
+}
+
+/* para la publcidad*/
+.pub{
+    width: 100%;
+    height: 100%
+}
+
+/*para el form de divisas*/
+
+hr{
+    color: white;
+}
+
+.form-control{
+    background-color: rgb(7, 7, 192);
+}
+/*para la tabla*/
+section h4{
+   background-color: rgb(140, 190, 207);
+   padding: 10px 5px;
+   color: white;
+}
+
+/*Horoscopo*/
